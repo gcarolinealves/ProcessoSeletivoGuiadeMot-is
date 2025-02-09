@@ -61,4 +61,4 @@ Este repositório contém três conjuntos de testes automatizados.
 - **Tamanho médio da resposta**: 6933.6 bytes
 
 Aplicação Web Testada: https://www.guiademoteis.com.br/usuario/cadastro<br>
-API Testada: https://jsonplaceholder.typicode.com/users
+API Mock Testada: https://jsonplaceholder.typicode.com/users
