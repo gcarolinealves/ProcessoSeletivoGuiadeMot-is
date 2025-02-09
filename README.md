@@ -44,7 +44,12 @@ Este repositório contém três conjuntos de testes automatizados.
 4. Simular uma falha no servidor e verificar se a resposta retorna status 500.
    - **Status**: Pass ✅
 
-## **Teste de Performance (Tesde de Carga)**
+## **Teste de Performance (Teste de Carga)**
+
+### Cenários de Testes
+
+1. Configurar um teste de carga para 100 usuários simultâneos acessando a API mock.
+   - **Status**: Pass ✅
 
 ### Resultados
 
