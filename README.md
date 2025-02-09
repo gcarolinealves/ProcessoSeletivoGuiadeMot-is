@@ -49,6 +49,7 @@ Este repositório contém três conjuntos de testes automatizados.
 ### Cenários de Testes
 
 1. Configurar um teste de carga para 100 usuários simultâneos acessando a API mock.  
+
    - **Status**: Pass ✅
 
 ### Resultados
