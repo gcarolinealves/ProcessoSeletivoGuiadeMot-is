@@ -4,7 +4,7 @@ Este repositório contém três conjuntos de testes automatizados.
 
 1. **Testes de UI** para o formulário de cadastro de usuário, utilizando o **Selenium**.
 2. **Testes de API** para validar os comportamentos esperados de uma API Mock, utlizando **Postman**.
-3. **Testes de Carga** para simular múltiplos usuários acessando a API Mock simultaneamente, utilizando **Apache JMeter**.
+3. **Testes de Carga** para simular múltiplos usuários acessando a API Mock simultaneamente, utilizando **JMeter**.
 
 ## **Testes de UI - Cadastro de Usuário**
 
