@@ -2,7 +2,7 @@
 
 Este repositório contém três conjuntos de testes automatizados.
 
-1. **Testes de UI** para o formulário de cadastro de usuário, utilizando o **Selenium WebDriver**.
+1. **Testes de UI** para o formulário de cadastro de usuário, utilizando o **Selenium**.
 2. **Testes de API** para validar os comportamentos esperados de uma API Mock, utlizando **Postman**.
 3. **Testes de Carga** para simular múltiplos usuários acessando a API Mock simultaneamente, utilizando **Apache JMeter**.
 
@@ -28,8 +28,6 @@ Este repositório contém três conjuntos de testes automatizados.
 4. **Confirmação de e-mail diferente**: Verificar se o sistema exibe erro quando os campos "E-mail" e "Confirmação de E-mail" não correspondem.  
    - **Status**: Pass ✅
 
-##
-
 ## **Testes de API**
 
 ### Cenários de Testes
@@ -45,8 +43,6 @@ Este repositório contém três conjuntos de testes automatizados.
 
 4. Simular uma falha no servidor e verificar se a resposta retorna status 500.
    - **Status**: Pass ✅
-
-##
 
 ## **Teste de Performance (Tesde de Carga)**
 
@@ -65,4 +61,6 @@ Este repositório contém três conjuntos de testes automatizados.
 - **Tamanho médio da resposta**: 6933.6 bytes
 
 Aplicação Web Testada: https://www.guiademoteis.com.br/usuario/cadastro
+
+
 API Testada: https://jsonplaceholder.typicode.com/users
